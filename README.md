@@ -21,7 +21,8 @@ We organized and cured the Toronto census data including age, gender, income, et
 
 The following chart represent the workflow of criteria map combination and generating the Health Eqiality Map:
 
-![image](https://user-images.githubusercontent.com/52434636/113491920-3f260080-94a2-11eb-80bc-1a06d8a7354f.png)
+![image](https://user-images.githubusercontent.com/52434636/113491937-5fee5600-94a2-11eb-80be-081475e704d4.png)
+
 
 
 
