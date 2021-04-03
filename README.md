@@ -12,4 +12,10 @@ Considering COVID19 the rate of reported cases varies in different neighbourhood
  
 The solution goes beyond empowering these vulnerable groups through systemic changes, such as law reform or changes in economic or social relationships. Simultaneously, reducing the health issues among these groups of society can be as effective and valuable. One way to do so is to increase the access to maintain health (e.g., immunization clinics). By enhancing health equality that results from differences in facilities that help in maintaining health, we can offer vulnerable groups the opportunity to enjoy life and pursue one's life plans.
 
+**Health Equality Map Calculation**
+
+The team proposed an Health Equality Map Index (HEMI), using geo-spatial map analysis task related to equality criteria and health issues (COVID19 as an ongoing example) available in Toronto. 
+We organized and cured the Toronto census data including age, gender, income, ethnicity, count of covid cases, location of the immunization clinics, and neighbourhoods. The group of vulnerable people were identified through geospatial analysis (overlaying) of the four selected criteria for vulnerability (age, gender, income, ethnicity). The method for overlaying was on the multicriteria decision-making basis (MCDM), based on which all criteria were brought to an identical unit (percentage). It was through rescaling to percentage, normalization by the maximum value of neighbourhoods. The below table describe the summary of Health Equaty Map criteria and calculation:
+
+![image](https://user-images.githubusercontent.com/52434636/113491165-bfe1fe00-949c-11eb-8653-2f248c1d759e.png)
 
