@@ -19,6 +19,9 @@ We organized and cured the Toronto census data including age, gender, income, et
 
 ![image](https://user-images.githubusercontent.com/52434636/113491165-bfe1fe00-949c-11eb-8653-2f248c1d759e.png)
 
+![image](https://user-images.githubusercontent.com/52434636/113491788-3e409f00-94a1-11eb-9e64-696d5fc38120.png)
+
+
 **App Features Description**
 
 The designed app provide an analytical dashboard embeds Visual Analytics functionalities so that, firstly, the user can attain a comprehensive insight about the health equality status of the neighbourhood, as well as the key contributing factors. Secondly, by selecting the neighbourhood user can individually look at the statistics and health equality status in the neighbourhood. Thirdly, the user can find the clinics within a user-defined buffer and find the direction to the closest clinic. 
