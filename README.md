@@ -119,6 +119,13 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
 | Ethnicity |   [link](https://open.toronto.ca/dataset/neighbourhood-profiles/) |2016  |
 | Covid19 Cases |   [link]() |2021  |
 | Boundary files |   [link](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm) |2016 |
+| Video (A busy street) |   [link](https://www.videvo.net/video/defocused-long-shot-of-people-walking-along-a-busy-street-in-oxford-england/608579/) |2020 |
+| Video (Covid vaccine syringe) |   [link](https://www.videvo.net/video/close-up-shot-of-medical-professionals-hand-holding-covid-vaccine-syringe-/677988/) |2020 |
+| Sliding Close Up Shot Past Syringes and Several Vials of Covid 19 Vaccine |   [link](https://www.videvo.net/video/sliding-close-up-shot-past-syringes-and-several-vials-of-covid-19-vaccine-/608894/) |2020 |
+| Sliding Extreme Close Up of Pile of Newspaper Front Pages with Covid 19 Vaccine Headlines |   [link](https://www.videvo.net/video/sliding-extreme-close-up-of-pile-of-newspaper-front-pages-with-covid-19-vaccine-headlines/608624/) |2020 |
+| Video (mask scene 1) |   [link](https://www.pexels.com/video/woman-art-iphone-smartphone-3960175/) |2020 |
+| Video (mask scene 2) |   [link](https://www.pexels.com/video/woman-safe-group-asian-3960165/) |2020 |
+| Icon (map) |   [link](https://www.flaticon.com/free-icon/position_2385141?term=geographic&page=1&position=6&page=1&position=6&related_id=2385141&origin=style) |2020 |
 | Icon (mask) |   [link](https://www.flaticon.com/license/icon/2878235) |2021  |
 | Icon (person1) |   [link](https://www.flaticon.com/license/icon/1077114) |2021  |
 | Icon(person2) |   [link](https://www.flaticon.com/license/icon/2522086) |2021  |
