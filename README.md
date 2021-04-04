@@ -67,7 +67,7 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
 
  ### Decision Making Tools
     
- ### Map Momparison Tool
+ ### Map Comparison Tool
 
  ### Summary Report Tools
 
