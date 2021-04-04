@@ -17,7 +17,17 @@ The solution goes beyond empowering these vulnerable groups through systemic cha
 The team proposes an Health Equality Map Index (HEMI), using geo-spatial map analysis task related to equality criteria and health issues (COVID19 as an ongoing example) data available in Toronto area. 
 We organized and cured the Toronto census data including age, gender, income, ethnicity, count of covid cases, location of the immunization clinics, and neighbourhoods. The group of vulnerable people were identified through geospatial analysis (overlaying) of the four selected criteria for vulnerability (age, gender, income, ethnicity). The method for overlaying was on the multicriteria decision-making basis (MCDM), based on which all criteria were brought to an identical unit (percentage). It was through rescaling to percentage, normalization by the min-max method for the neighbourhoods. The below table describe the summary of Health Equaty Map criteria and calculation:
 
-![image](https://user-images.githubusercontent.com/52434636/113491165-bfe1fe00-949c-11eb-8653-2f248c1d759e.png)
+|     Data Layer    |      Original data      |  Low valunerable (0%) |  Highly valunerable (1000%)
+|----------|-------------|------|------|
+| Age |   Population of People > 6 and > 65  | Zero population with these criteria live in this neighbourhood |  Maximum population with this criterion lives in this neighbourhood (compared with other neighborhoods) 
+| Gender |   Population of female living in the neighborhood |  |		| 
+| Ethnicity |  Population of first nations |  |		| 
+| Income |  Annual income of the neighbourhood | Highest income |Lowest Income
+| Covid cases |  Count of cases per neighborhood | Zero cases of Covid were reported in the neighbourhood |Highest count of cases lives in this neighbourhood
+| Vulnerability |  Age, gender, ethnicity, and income were overlaid to create this data set  | Low vulnerable people live in this neighbourhood |Highly vulnerable people live in this neighbourhood
+| Risk |  [Vulnerable people in vicinity of Covid cases |  Low risk (Covid cases and vulnerability is low)  |High risk (Covid cases and vulnerability is low)
+| Immunization clinics (as health facility) |  Count of immunization clinics per population of neighborhood | Zero clinics in the neighbourhood |Maximum count of clinic in the neighbourhood (compared with others)
+| Equity |  Comparison of Risk (vulnerable groups and covid cases in the neighbourhood) and Immunization clinics (count of clinics) | Maximum equality (risk is high but the number of clinics is low, OR, the risk is low but the number of clinics is high) |Maximum equality (risk and number of clinics are both high, OR, risk and number of clinics are low)
 
 `All four selected criteria (Criteria 1: age, Criteria 2: income, Criteria 3: ethnicity, Criteria 4: gender, Criteria5: covid cases) were     normalized by applying the linear standardization between 0 and 100.`
 
@@ -50,9 +60,9 @@ The designed app provide an analytical dashboard embeds Visual Analytics functio
 
 Visual analytics is "the science of analytical reasoning facilitated by interactive visual interfaces." Our team utilized this concept to create the dashboard allowing the users to get clear and holistic information about health equality in the Toronto neighbourhoods by considering the vulnerability of people in the society and the hazard of Covid cases surrounding them, and their access to health care facilities (e.g., immunization clinics). This platform introduces a concept beyond Covid health facilities. The ongoing health issue (Covid disease) and facilities (immunization clinics) can be any identical health issue and facility, respectively. The platform thus is also crucial to research communities studying medical and health data analysis.
 
-    **Decision Making Tools:**
+    ### Decision Making Tools:
     
-  - **Map Momparison Tool:**
+  ### Map Momparison Tool:**
 
   - **Summary Report Tools:**
 
