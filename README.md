@@ -4,7 +4,7 @@
 
 Equality is eliminating the differences among groups of people. These groups can be defined based on their gender, economical, demographical, or geographical status. Health inequalities concern health factors and access to the resources required to improve and maintain health. They also involve a failure to avoid or overcome inequalities that infringe on fairness and human rights norms.
 
- <a href="https://shapash-demo.ossbymaif.fr/">
+ <a">
   <p align="center">
     <img src="gif/Managment.GIF" width="800" title="contrib">
   </p>
@@ -63,7 +63,11 @@ The following chart represent the workflow of criteria map combination and gener
 
 ![image](https://user-images.githubusercontent.com/52434636/113494450-3ccda180-94b6-11eb-8635-1757392304a0.png)
 
-
+<a>
+  <p align="center">
+    <img src="gif/Map_Integeration.GIF" width="800" title="contrib">
+  </p>
+</a>
 
 ## App Features Description
 
@@ -78,7 +82,7 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
 
  ### Map Comparison Tool
  
-<a href="https://shapash-demo.ossbymaif.fr/">
+<a>
   <p align="center">
     <img src="gif/Comparsion_Tool.GIF" width="800" title="contrib">
   </p>
@@ -88,14 +92,14 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
 
 
 ### Analytics Visualization
-<a href="https://shapash-demo.ossbymaif.fr/">
+<a>
   <p align="center">
     <img src="gif/Statistical.GIF" width="800" title="contrib">
   </p>
 </a>
 
  ### Summary Report Tools
- <a href="https://shapash-demo.ossbymaif.fr/">
+ <a>
   <p align="center">
     <img src="gif/Report.GIF" width="800" title="contrib">
   </p>
