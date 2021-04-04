@@ -6,7 +6,7 @@ Equality is eliminating the differences among groups of people. These groups can
 
  <a href="https://shapash-demo.ossbymaif.fr/">
   <p align="center">
-    <img src="gif/Management.GIF" width="800" title="contrib">
+    <img src="gif/Managment.GIF" width="800" title="contrib">
   </p>
 </a>
 
