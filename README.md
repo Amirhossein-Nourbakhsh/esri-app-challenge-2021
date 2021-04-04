@@ -31,9 +31,9 @@ The designed app provide an analytical dashboard embeds Visual Analytics functio
 
 Visual analytics is "the science of analytical reasoning facilitated by interactive visual interfaces." Our team utilized this concept to create the dashboard allowing the users to get clear and holistic information about health equality in the Toronto neighbourhoods by considering the vulnerability of people in the society and the hazard of Covid cases surrounding them, and their access to health care facilities (e.g., immunization clinics). This platform introduces a concept beyond Covid health facilities. The ongoing health issue (Covid disease) and facilities (immunization clinics) can be any identical health issue and facility, respectively. The platform thus is also crucial to research communities studying medical and health data analysis.
 
-    <li>**Decision Making Tools:**  </li>
+    **Decision Making Tools:**
 
-  **Map Momparison Tool:**
+  - **Map Momparison Tool:**
 
   **Summary Report Tools:**
 
