@@ -18,7 +18,7 @@ The team proposes an Health Equality Map Index (HEMI), using geo-spatial map ana
 We organized and cured the Toronto census data including age, gender, income, ethnicity, count of covid cases, location of the immunization clinics, and neighbourhoods. The group of vulnerable people were identified through geospatial analysis (overlaying) of the four selected criteria for vulnerability (age, gender, income, ethnicity). The method for overlaying was on the multicriteria decision-making basis (MCDM), based on which all criteria were brought to an identical unit (percentage). It was through rescaling to percentage, normalization by the min-max method for the neighbourhoods. The below table describe the summary of Health Equaty Map criteria and calculation:
 
 
-|     Data Layer    |      Original data      |  Low valunerable (0%) |  Highly valunerable (1000%)
+|     Data Layer    |      Original data      |  Low valunerable (0%) |  Highly valunerable (100%)
 |----------|-------------|------|------|
 | Age |   Population of People > 6 and > 65  | Zero population with these criteria live in this neighbourhood |  Maximum population with this criterion lives in this neighbourhood (compared with other neighborhoods) 
 | Gender |   Population of female living in the neighborhood | Zero population with these criteria live in this neighbourhood |	Maximum population with this criterion lives in this neighbourhood (compared with other neighborhoods)	| 
