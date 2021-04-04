@@ -1,6 +1,6 @@
-**Vaxequity**
+## Vaxequity
 
-**Goal**: **Enhance Health Equality**
+### Goal: **Enhance Health Equality**
 
 Equality is eliminating the differences among groups of people. These groups can be defined based on their gender, economical, demographical, or geographical status. Health inequalities concern health factors and access to the resources required to improve and maintain health. They also involve a failure to avoid or overcome inequalities that infringe on fairness and human rights norms.
 
@@ -12,7 +12,7 @@ Considering COVID19 the rate of reported cases varies in different neighbourhood
  
 The solution goes beyond empowering these vulnerable groups through systemic changes, such as law reform or changes in economic or social relationships. Simultaneously, reducing the health issues among these groups of society can be as effective and valuable. One way to do so is to increase the access to maintain health (e.g., immunization clinics). By enhancing health equality that results from differences in facilities that help in maintaining health, we can offer vulnerable groups the opportunity to enjoy life and pursue one's life plans.
 
-**Health Equality Map Calculation**
+## Health Equality Map Calculation
 
 The team proposes an Health Equality Map Index (HEMI), using geo-spatial map analysis task related to equality criteria and health issues (COVID19 as an ongoing example) data available in Toronto area. 
 We organized and cured the Toronto census data including age, gender, income, ethnicity, count of covid cases, location of the immunization clinics, and neighbourhoods. The group of vulnerable people were identified through geospatial analysis (overlaying) of the four selected criteria for vulnerability (age, gender, income, ethnicity). The method for overlaying was on the multicriteria decision-making basis (MCDM), based on which all criteria were brought to an identical unit (percentage). It was through rescaling to percentage, normalization by the min-max method for the neighbourhoods. The below table describe the summary of Health Equaty Map criteria and calculation:
@@ -56,19 +56,19 @@ The following chart represent the workflow of criteria map combination and gener
 
 
 
-**App Features Description**
+## App Features Description
 
 The designed app provide an analytical dashboard embeds Visual Analytics functionalities so that, firstly, the user can attain a comprehensive insight about the health equality status of the neighbourhood, as well as the key contributing factors. Secondly, by selecting the neighbourhood user can individually look at the statistics and health equality status in the neighbourhood. Thirdly, the user can find the clinics within a user-defined buffer and find the direction to the closest clinic. 
 
 Visual analytics is "the science of analytical reasoning facilitated by interactive visual interfaces." Our team utilized this concept to create the dashboard allowing the users to get clear and holistic information about health equality in the Toronto neighbourhoods by considering the vulnerability of people in the society and the hazard of Covid cases surrounding them, and their access to health care facilities (e.g., immunization clinics). This platform introduces a concept beyond Covid health facilities. The ongoing health issue (Covid disease) and facilities (immunization clinics) can be any identical health issue and facility, respectively. The platform thus is also crucial to research communities studying medical and health data analysis.
 
-    **Decision Making Tools:**
+ ### Decision Making Tools
     
-  - **Map Momparison Tool:**
+ ### Map Momparison Tool
 
-  - **Summary Report Tools:**
+ ### Summary Report Tools
 
-  ### Data Sources
+ ## Data Sources
 |     Data     |      Source      |  Year |
 |----------|-------------|------|
 | Immunization Clinics |   [link](https://open.toronto.ca/dataset/covid-19-immunization-clinics/)  | 2021 |
@@ -86,7 +86,7 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
 
 
 
-  - **Reference:**
+ ## Reference
 
 Armenakis, C., Du, E., Natesan, S., Persad, R., & Zhang, Y. (2017). Flood Risk Assessment in Urban Areas Based on Spatial Analytics and Social Factors. Geosciences, 7(4), 123. https://doi.org/10.3390/geosciences7040123
 
