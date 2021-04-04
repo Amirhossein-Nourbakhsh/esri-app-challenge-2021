@@ -140,3 +140,5 @@ Armenakis, C., Du, E., Natesan, S., Persad, R., & Zhang, Y. (2017). Flood Risk A
 
 Chung, E. S., & Kim, Y. (2014). Development of fuzzy multi-criteria approach to prioritize locations of treated wastewater use considering climate change scenarios. Journal of Environmental Management, 146, 505–516. https://doi.org/10.1016/j.jenvman.2014.08.013
 
+Roy, S., Bhunia, G. S., & Shit, P. K. (2020). Spatial prediction of COVID-19 epidemic using ARIMA techniques in India. Modeling Earth Systems and Environment, 2019(0123456789). https://doi.org/10.1007/s40808-020-00890-y
+
