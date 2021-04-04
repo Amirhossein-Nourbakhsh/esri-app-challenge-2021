@@ -14,10 +14,15 @@ The solution goes beyond empowering these vulnerable groups through systemic cha
 
 **Health Equality Map Calculation**
 
-The team proposed an Health Equality Map Index (HEMI), using geo-spatial map analysis task related to equality criteria and health issues (COVID19 as an ongoing example) available in Toronto. 
-We organized and cured the Toronto census data including age, gender, income, ethnicity, count of covid cases, location of the immunization clinics, and neighbourhoods. The group of vulnerable people were identified through geospatial analysis (overlaying) of the four selected criteria for vulnerability (age, gender, income, ethnicity). The method for overlaying was on the multicriteria decision-making basis (MCDM), based on which all criteria were brought to an identical unit (percentage). It was through rescaling to percentage, normalization by the maximum value of neighbourhoods. The below table describe the summary of Health Equaty Map criteria and calculation:
+The team proposes an Health Equality Map Index (HEMI), using geo-spatial map analysis task related to equality criteria and health issues (COVID19 as an ongoing example) data available in Toronto area. 
+We organized and cured the Toronto census data including age, gender, income, ethnicity, count of covid cases, location of the immunization clinics, and neighbourhoods. The group of vulnerable people were identified through geospatial analysis (overlaying) of the four selected criteria for vulnerability (age, gender, income, ethnicity). The method for overlaying was on the multicriteria decision-making basis (MCDM), based on which all criteria were brought to an identical unit (percentage). It was through rescaling to percentage, normalization by the min-max method for the neighbourhoods. The below table describe the summary of Health Equaty Map criteria and calculation:
 
 ![image](https://user-images.githubusercontent.com/52434636/113491165-bfe1fe00-949c-11eb-8653-2f248c1d759e.png)
+
+All four selected criteria (Criteria 1: age, Criteria 2: income, Criteria 3: ethnicity, Criteria 4: gender, Criteria5: covid cases) were normalized by applying the linear standardization between 0 and 100.
+
+(NC)_(i,1)=(C_(i,1)-((C_(i,1)))_min)/(((C_(i,1))_max-((C_(i,1)))_min )
+
 
 The following chart represent the workflow of criteria map combination and generating the Health Eqiality Map:
 
@@ -32,14 +37,14 @@ The designed app provide an analytical dashboard embeds Visual Analytics functio
 Visual analytics is "the science of analytical reasoning facilitated by interactive visual interfaces." Our team utilized this concept to create the dashboard allowing the users to get clear and holistic information about health equality in the Toronto neighbourhoods by considering the vulnerability of people in the society and the hazard of Covid cases surrounding them, and their access to health care facilities (e.g., immunization clinics). This platform introduces a concept beyond Covid health facilities. The ongoing health issue (Covid disease) and facilities (immunization clinics) can be any identical health issue and facility, respectively. The platform thus is also crucial to research communities studying medical and health data analysis.
 
     **Decision Making Tools:**
-
+    
   - **Map Momparison Tool:**
 
-  **Summary Report Tools:**
+  - **Summary Report Tools:**
 
-  **Data Sources:**
+  - **Data Sources:**
 
-  **Reference:**
+  - **Reference:**
 
 Armenakis, C., Du, E., Natesan, S., Persad, R., & Zhang, Y. (2017). Flood Risk Assessment in Urban Areas Based on Spatial Analytics and Social Factors. Geosciences, 7(4), 123. https://doi.org/10.3390/geosciences7040123
 
