@@ -62,13 +62,13 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
 
     ### Decision Making Tools:
     
-  # Map Momparison Tool:
+  #### Map Comparison Tool:
 
-  # Summary Report Tools:
+  #### Summary Report Tools:
 
-  # Data Sources:
+  #### Data Sources:
 
-  # Reference:
+  #### Reference:
 
 Armenakis, C., Du, E., Natesan, S., Persad, R., & Zhang, Y. (2017). Flood Risk Assessment in Urban Areas Based on Spatial Analytics and Social Factors. Geosciences, 7(4), 123. https://doi.org/10.3390/geosciences7040123
 
