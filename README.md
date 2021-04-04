@@ -33,7 +33,7 @@ We organized and cured the Toronto census data including age, gender, income, et
 `Where Vi is vulnerability rate at neighbourhood i, NCi,k is the normalized Criteria k at neighbourhood i.
 The risk at each neighbourhood was calculated using the risk formula.`
 
-   R_i=V_i×(N)_(5,i)
+   `R_i=V_i×(N)_(5,i)`
    
 `Where Ri is risk rate at neighbourhood i, NCi,5 is the normalized covid cases at neighbourhood i.`
 
