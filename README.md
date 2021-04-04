@@ -4,7 +4,7 @@
 
 Equality is eliminating the differences among groups of people. These groups can be defined based on their gender, economical, demographical, or geographical status. Health inequalities concern health factors and access to the resources required to improve and maintain health. They also involve a failure to avoid or overcome inequalities that infringe on fairness and human rights norms.
 
- <a">
+ <a>
   <p align="center">
     <img src="gif/Managment.GIF" width="800" title="contrib">
   </p>
@@ -60,8 +60,12 @@ Where Ri is risk rate at neighbourhood i, NCi,5 is the normalized covid cases at
 
 
 The following chart represent the workflow of criteria map combination and generating the Health Eqiality Map:
+<a>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/52434636/113494450-3ccda180-94b6-11eb-8635-1757392304a0.png" width="400" title="contrib">
+  </p>
+</a>
 
-![image](https://user-images.githubusercontent.com/52434636/113494450-3ccda180-94b6-11eb-8635-1757392304a0.png)
 
 <a>
   <p align="center">
