@@ -42,3 +42,8 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
 **Data Sources:**
 
 **Reference:**
+
+Armenakis, C., Du, E., Natesan, S., Persad, R., & Zhang, Y. (2017). Flood Risk Assessment in Urban Areas Based on Spatial Analytics and Social Factors. Geosciences, 7(4), 123. https://doi.org/10.3390/geosciences7040123
+
+Chung, E. S., & Kim, Y. (2014). Development of fuzzy multi-criteria approach to prioritize locations of treated wastewater use considering climate change scenarios. Journal of Environmental Management, 146, 505–516. https://doi.org/10.1016/j.jenvman.2014.08.013
+
