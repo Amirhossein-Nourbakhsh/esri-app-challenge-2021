@@ -59,18 +59,19 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
   ### Data Sources
 |     Data     |      Source      |  Year |
 |----------|-------------|------|
-| Emergency Department (ED) |   [link](http://www.torontohealthprofiles.ca/a_dataTables.php?varTab=HPDtbl)  | 2013-2014 |
-| General Hospitals in Toronto |   [link](https://www.google.com/maps/search/hospital/@43.7337905,-79.417453,11z/data=!3m1!4b1	) |2020  |
-| Median waiting times |  [link](https://open.canada.ca/data/en/dataset/b783efd5-7be7-4989-942f-a0fcda8d3fb7	) | 2018 |
-|Changing Landscape of Toronto’s Populatio  |  [link](https://www.toronto.ca/wp-content/uploads/2018/01/94fc-Toronto_Geographic-Trends_Web-Version.pdf) | 2016 |
-| Doctors Information |  [link](https://doctors.cpso.on.ca/?search=general) | 2020 |
-| NACRS and CIHI Free resources |  [link](https://www.cihi.ca/en/quick-stats) | 2020 |
-| NACRS Emergency Department Visits and Length of Stay |  [link](https://www.cihi.ca/sites/default/files/document/nacrs-2018-2019-quickstats-en-web_0.xlsx) |  2018-2019 |
-| National Ambulatory Care Reporting System |  [link](https://www.cihi.ca/en/national-ambulatory-care-reporting-system-metadata) | 2018-2019 |
-| Priority Procedures Knee and Hip Replacement |  [link](https://www.cihi.ca/en/wait-times-for-priority-procedures-in-canada) | 2019 |
-| Injury and Trauma Stats |  [link](http://www.cihi.ca/sites/default/files/document/2017-2018-injury-and-trauma-quick-stats-en-web.xlsx) | 2017-2018 |
-| Wait time in ED "Chapter 4 Page 28" |  [link](https://www.hqontario.ca/portals/0/Documents/pr/measuring-up-2018-en.pdf) | 2018 |
-| Time Spent in Emergency |  [link](https://www.ontario.ca/page/time-spent-emergency-department) | 2019 |
+| Immunization Clinics |   [link](https://open.toronto.ca/dataset/covid-19-immunization-clinics/)  | 2021 |
+| Population |   [link](https://open.toronto.ca/dataset/neighbourhood-profiles/) |2016  |
+| Age |   [link](https://open.toronto.ca/dataset/neighbourhood-profiles/) |2016  |
+| Gender |   [link](https://open.toronto.ca/dataset/neighbourhood-profiles/) |2016  |
+| Ethnicity |   [link](https://open.toronto.ca/dataset/neighbourhood-profiles/) |2016  |
+| Covid19 Cases |   [link]() |2021  |
+| Icon (mask) |   [link](https://www.flaticon.com/license/icon/2878235) |2021  |
+| Icon (person1) |   [link](https://www.flaticon.com/license/icon/1077114) |2021  |
+| Icon(person2) |   [link](https://www.flaticon.com/license/icon/2522086) |2021  |
+| Image-Vaccine |   [link](https://unsplash.com/@ivvndiaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) |2020  |
+| Image-Equality |   [link](https://pixabay.com/photos/math-blackboard-education-classroom-1547018/) |2020 |
+
+
 
   - **Reference:**
 
