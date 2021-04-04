@@ -26,6 +26,17 @@ We organized and cured the Toronto census data including age, gender, income, et
 
  Where i is the neighbourhood number, NCi,1 is the normalized criteria at neighbourhood i, Ci,1 is the actual value of the Criteria1  at  neighbourhood i, and (C1)max is the maximum value of Criteria1 within the study area. 
 
+The mathematical model for vulnerability which incorporates the four selected criteria using the weighted sum method (Chung & Kim, 2014) is presented below:
+
+   V_i=∑_(k=1)^4▒NC_(k,i)/4	
+   
+Where Vi is vulnerability rate at neighbourhood i, NCi,k is the normalized Criteria k at neighbourhood i.
+The risk at each neighbourhood was calculated using the risk formula.
+
+   R_i=V_i×(N)_(5,i)
+   
+Where Ri is risk rate at neighbourhood i, NCi,5 is the normalized covid cases at neighbourhood i.
+
 
 The following chart represent the workflow of criteria map combination and generating the Health Eqiality Map:
 
