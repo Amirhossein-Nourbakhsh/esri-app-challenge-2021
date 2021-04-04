@@ -68,6 +68,12 @@ Visual analytics is "the science of analytical reasoning facilitated by interact
  ### Decision Making Tools
     
  ### Map Comparison Tool
+ 
+<a href="https://shapash-demo.ossbymaif.fr/">
+  <p align="center">
+    <img src="gif/Comparsion_Tool.GIF" width="800" title="contrib">
+  </p>
+</a>
 
  ### Summary Report Tools
 
