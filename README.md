@@ -31,23 +31,26 @@ We organized and cured the Toronto census data including age, gender, income, et
 | Equity |  Comparison of Risk (vulnerable groups and covid cases in the neighbourhood) and Immunization clinics (count of clinics) | Maximum equality (risk is high but the number of clinics is low, OR, the risk is low but the number of clinics is high) |Maximum equality (risk and number of clinics are both high, OR, risk and number of clinics are low)
 
 
-`All four selected criteria (Criteria 1: age, Criteria 2: income, Criteria 3: ethnicity, Criteria 4: gender, Criteria5: covid cases) were     normalized by applying the linear standardization between 0 and 100.`
+All four selected criteria (Criteria 1: age, Criteria 2: income, Criteria 3: ethnicity, Criteria 4: gender, Criteria5: covid cases) were normalized by applying the linear standardization between 0 and 100.
 
-`(NC)_(i,1)=(C_(i,1)-((C_(i,1)))_min)/(((C_(i,1))_max-((C_(i,1)))_min )`
- 
+![image](https://user-images.githubusercontent.com/26365902/113498920-59320400-94df-11eb-8af2-0591143227ce.png)
+
+
 
  Where i is the neighbourhood number, NCi,1 is the normalized criteria at neighbourhood i, Ci,1 is the actual value of the Criteria1  at  neighbourhood i, and (C1)max is the maximum value of Criteria1 within the study area. 
 
-`The mathematical model for vulnerability which incorporates the four selected criteria using the weighted sum method (Chung & Kim, 2014) is presented below:`
+The mathematical model for vulnerability which incorporates the four selected criteria using the weighted sum method (Chung & Kim, 2014) is presented below:
 
-   `V_i=∑_(k=1)^4▒NC_(k,i)/4	`
-   
-`Where Vi is vulnerability rate at neighbourhood i, NCi,k is the normalized Criteria k at neighbourhood i.
-The risk at each neighbourhood was calculated using the risk formula.`
+![image](https://user-images.githubusercontent.com/26365902/113498928-6cdd6a80-94df-11eb-8742-9afb5dd0c0ae.png)
 
-   `R_i=V_i×(N)_(5,i)`
    
-`Where Ri is risk rate at neighbourhood i, NCi,5 is the normalized covid cases at neighbourhood i.`
+Where Vi is vulnerability rate at neighbourhood i, NCi,k is the normalized Criteria k at neighbourhood i.
+The risk at each neighbourhood was calculated using the risk formula.
+
+ ![image](https://user-images.githubusercontent.com/26365902/113498943-8088d100-94df-11eb-801a-e393d50ce149.png)
+
+   
+Where Ri is risk rate at neighbourhood i, NCi,5 is the normalized covid cases at neighbourhood i.
 
 
 The following chart represent the workflow of criteria map combination and generating the Health Eqiality Map:
