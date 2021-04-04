@@ -19,9 +19,12 @@ We organized and cured the Toronto census data including age, gender, income, et
 
 ![image](https://user-images.githubusercontent.com/52434636/113491165-bfe1fe00-949c-11eb-8653-2f248c1d759e.png)
 
-All four selected criteria (Criteria 1: age, Criteria 2: income, Criteria 3: ethnicity, Criteria 4: gender, Criteria5: covid cases) were normalized by applying the linear standardization between 0 and 100.
+`All four selected criteria (Criteria 1: age, Criteria 2: income, Criteria 3: ethnicity, Criteria 4: gender, Criteria5: covid cases) were     normalized by applying the linear standardization between 0 and 100.
 
-(NC)_(i,1)=(C_(i,1)-((C_(i,1)))_min)/(((C_(i,1))_max-((C_(i,1)))_min )
+(NC)_(i,1)=(C_(i,1)-((C_(i,1)))_min)/(((C_(i,1))_max-((C_(i,1)))_min )`
+ 
+
+ Where i is the neighbourhood number, NCi,1 is the normalized criteria at neighbourhood i, Ci,1 is the actual value of the Criteria1  at  neighbourhood i, and (C1)max is the maximum value of Criteria1 within the study area. 
 
 
 The following chart represent the workflow of criteria map combination and generating the Health Eqiality Map:
